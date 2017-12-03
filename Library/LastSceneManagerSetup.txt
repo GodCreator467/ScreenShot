@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Native Share Demo Scene/TestScene.unity
+  isLoaded: 1
+  isActive: 1

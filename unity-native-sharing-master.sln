@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-native-sharing-master.Plugins", "unity-native-sharing-master.Plugins.csproj", "{E2910905-6075-FA7E-8F95-10C2C72B562D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-native-sharing-master", "unity-native-sharing-master.csproj", "{79BE4542-8D28-00AD-D941-CAF65FCA7B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2910905-6075-FA7E-8F95-10C2C72B562D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2910905-6075-FA7E-8F95-10C2C72B562D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2910905-6075-FA7E-8F95-10C2C72B562D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2910905-6075-FA7E-8F95-10C2C72B562D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BE4542-8D28-00AD-D941-CAF65FCA7B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BE4542-8D28-00AD-D941-CAF65FCA7B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BE4542-8D28-00AD-D941-CAF65FCA7B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BE4542-8D28-00AD-D941-CAF65FCA7B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
